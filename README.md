@@ -5,7 +5,7 @@
 
 Internet Renaissance.
 
-**Website:** [ourzora.com](zora.co)
+**Website:** [zora.co](zora.co)
 **Instagram:** [@our.zora](instagram.com/our.zora)
 **Twitter:** [@ourZORA](twitter.com/ourZORA)
 
