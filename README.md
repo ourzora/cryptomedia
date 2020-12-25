@@ -1,2 +1,3 @@
-# cryptomedia
-What is Cryptomedia?
+# What is Cryptomedia
+
+fr tho what is it?
