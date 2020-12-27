@@ -5,9 +5,9 @@
 
 Internet Renaissance.
 
-**Website:** [zora.co](zora.co)
-**Instagram:** [@our.zora](instagram.com/our.zora)
-**Twitter:** [@ourZORA](twitter.com/ourZORA)
+**Website:** [zora.co](https://zora.co)
+**Instagram:** [@our.zora](https://instagram.com/our.zora)
+**Twitter:** [@ourZORA](https://twitter.com/ourZORA)
 
 ## Purpose
 
