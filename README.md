@@ -13,6 +13,8 @@ Internet Renaissance.
 
 This is a website to define the term "Cryptomedia", which is a term we are creating to describe the objects produced by the Zora protocol.
 
+This website is viewable at: [cryptomedia.wtf](https://cryptomedia.wtf)
+
 
 ## License & Acknowledgements
 
