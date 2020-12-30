@@ -11,9 +11,14 @@ Internet Renaissance.
 
 ## Purpose
 
-This is a website to define the term "Cryptomedia", which is a term we are creating to describe the objects produced by the Zora protocol.
+This is a website to define the term "[Cryptomedia](https://cryptomedia.wtf)", which is a term we are creating to describe the objects produced by the Zora protocol.
 
 This website is viewable at: [cryptomedia.wtf](https://cryptomedia.wtf)
+
+
+## Contributions
+
+Language and definitions change, they require collective agreement. This repository is open for contributions.
 
 
 ## License & Acknowledgements
