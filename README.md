@@ -1,4 +1,4 @@
-![Zora: What is Cryptomedia?](https://github.com/ourzora/cryptomedia/blob/main/renaissance.png?raw=true)
+![Zora: What is Cryptomedia?](https://github.com/ourzora/cryptomedia/blob/main/renaissance.jpg?raw=true)
 
 
 # Zora
