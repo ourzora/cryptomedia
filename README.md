@@ -1,4 +1,4 @@
-![Zora: What is Cryptomedia?](https://upload.wikimedia.org/wikipedia/commons/e/eb/The_Gallery_of_Cornelis_van_der_Geest.JPG)
+![Zora: What is Cryptomedia?](https://github.com/ourzora/cryptomedia/blob/main/renaissance.png?raw=true)
 
 
 # Zora
